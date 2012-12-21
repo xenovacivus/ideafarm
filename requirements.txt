@@ -1,0 +1,6 @@
+Django==1.4.3
+argparse==1.2.1
+django-tinymce==1.5.1b4
+django-wysiwyg==0.5
+ipython==0.13.1
+wsgiref==0.1.2
